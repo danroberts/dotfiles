@@ -1,3 +1,6 @@
 " colorschemes
 Plug 'altercation/vim-colors-solarized'
 Plug 'christoomey/vim-tmux-navigator'
+Plug 'kballard/vim-swift'
+Plug 'mrtazz/simplenote.vim'
+Plug 'wincent/command-t'
