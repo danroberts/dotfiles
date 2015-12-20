@@ -1,5 +1,5 @@
 " colorschemes
 Plug 'altercation/vim-colors-solarized'
 Plug 'christoomey/vim-tmux-navigator'
-Plug 'kballard/vim-swift'
+Plug 'apple/swift', {'rtp': 'utils/vim'}
 Plug 'mrtazz/simplenote.vim'
