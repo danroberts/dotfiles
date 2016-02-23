@@ -3,3 +3,5 @@ Plug 'altercation/vim-colors-solarized'
 Plug 'christoomey/vim-tmux-navigator'
 Plug 'apple/swift', {'rtp': 'utils/vim'}
 Plug 'mrtazz/simplenote.vim'
+Plug 'wakatime/vim-wakatime'
+Plug 'rking/ag.vim'
