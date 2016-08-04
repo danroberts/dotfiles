@@ -4,6 +4,8 @@ set background=dark
 let g:solarized_termtrans=1
 colorscheme solarized
 
+" Set mapleader to space
+let mapleader=" "
 
 let g:ctrlp_map = '<Leader>o'
 let g:ctrlp_cmd = 'CtrlP'
