@@ -10,3 +10,4 @@ Plug 'Shougo/vimproc.vim', {'do' : 'make'}
 Plug 'Quramy/tsuquyomi'
 Plug 'nfvs/vim-perforce'
 Plug 'vim-syntastic/syntastic'
+Plug 'fatih/vim-go'
