@@ -6,4 +6,7 @@ Plug 'mrtazz/simplenote.vim'
 Plug 'wakatime/vim-wakatime'
 Plug 'rking/ag.vim'
 Plug 'leafgarland/typescript-vim'
+Plug 'Shougo/vimproc.vim', {'do' : 'make'}
+Plug 'Quramy/tsuquyomi'
 Plug 'nfvs/vim-perforce'
+Plug 'vim-syntastic/syntastic'
